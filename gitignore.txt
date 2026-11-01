@@ -1,0 +1,11 @@
+.env
+.utag_key
+*.db
+*.db-wal
+*.db-shm
+*.bak
+*.session
+__pycache__/
+*.pyc
+.venv/
+venv/
